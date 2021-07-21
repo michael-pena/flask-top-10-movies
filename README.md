@@ -7,10 +7,10 @@ Python web application that uses flask, wtforms, requests, sqlite, and the The [
 ## Demo
 
 #### Viewing Added Movies
-<img src="https://raw.githubusercontent.com/michael-pena/flask-top-10-movies/master/index.gif"  width=500>
+<img src="https://raw.githubusercontent.com/michael-pena/flask-top-10-movies/master/index.gif"  width=650>
 
 #### Adding and Reviewing
-<img src="https://raw.githubusercontent.com/michael-pena/flask-top-10-movies/master/add.gif"  width=500>
+<img src="https://raw.githubusercontent.com/michael-pena/flask-top-10-movies/master/add.gif"  width=650>
 
 
 ## Install
